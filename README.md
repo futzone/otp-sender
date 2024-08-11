@@ -1,16 +1,4 @@
-# on_otp_sender
+# SMS Otp Sender
 
-Bacground SMS sender
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Mobil ilovalar, websaytlar, Telegram botlardan ro’yxatdan o’tish jarayonida foydalanuvchilarning telefon raqamini tasdiqlash uchun shu telefon raqamga tasdiqlash kodi ya’ni “OTP kod” yuboriladi. Buni yuborish uchun odatda siz SMS yuborish provayderlari bilan shartnoma imzolashingiz kerak bo’ladi. Shartnoma uchun esa siz yuridik shaxs yoki yakka tartibdagi tadbirkor bo’lishingiz kerak. Ustiga-ustak yana encha to’lovlari ham bor. Bu esa endi loyihalarini yaratayotganlar uchun ancha “bosh og’rig’i” bo’ladi. Bularni chetlab o’tish uchun yechim topishga harakat qildik va buni uddasidan chiqdik degan umiddamiz!
+[Docs website](https://otp-docs.web.app/)
