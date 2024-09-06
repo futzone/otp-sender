@@ -19,8 +19,8 @@ A skilled software developer with 2 years of experience in Flutter and 1 year in
 ---
 
 ## SOCIAL PROFILES  
-* Telegram: [https://t.me/Qahor0v](https://t.me/Qahor0v)  
-* GitHub: [https://github.com/qahor0v](https://github.com/qahor0v)  
+* Telegram: https://t.me/Qahor0v  
+* GitHub: https://github.com/qahor0v  
 
 ---
 
